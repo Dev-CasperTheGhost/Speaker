@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+font-family: sans-serif;
+}
+
+#speaker-r {
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(12, 12, 12);
+    border-radius: 10px;
+}
+#speaker-l {
+    position: absolute;
+    top: 50%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    width: 300px;
+    height: 500px;
+    background-color: rgb(12, 12, 12);
+    border-radius: 10px;
+}
+#title {
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 23px;
+}
+#small-speaker {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 120px;
+    height: 120px;
+    border: 7px solid black;
+    border-radius: 120px;
+    background-color: black;
+
+}
+#big-speaker {
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 230px;
+    height: 230px;
+    border: 15px solid black;
+    border-radius: 230px;
+    background-color: black;
+}
+
+#subwoofer {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    background-color: rgb(12, 12, 12);
+}
+#s-title {
+    position: absolute;
+    top: 95%;
+    left: 90%;
+    transform: translate(-50%, -50%);   
+    color: white;
+    font-size: 23px;
+}
+#sub {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);   
+    border: 20px solid black;
+    width: 320px;
+    height: 320px;
+    border-radius: 320px;
+    background-color: black;
+}
