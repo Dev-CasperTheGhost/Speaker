@@ -2,6 +2,6 @@
 A simple CSS and HTML project! 
 
 ## Demo's 
-[Screen Shot](https://imgur.com/a/RetLp2R)
+[Screen Shot](https://i.imgur.com/iTCPksB.png)
 
-[Real Time Demo](https://vigilant-goodall-6d0a89.netlify.com/)
+[Real Time Demo](https://dev-caspertheghost.github.io/Speaker/)
